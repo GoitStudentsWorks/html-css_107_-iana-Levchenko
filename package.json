@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/watch-charm-group-14/",
+    "build": "vite build --base=/html-css_107_-iana-Levchenko/",
     "preview": "vite preview"
   },
   "devDependencies": {
